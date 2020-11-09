@@ -1,6 +1,7 @@
 # Anzeigetafel
 simple Java distributed system based on RMI
-   - Server :
+
+  - Server :
     - Spring-boot-Starter
     - Spring-boot-Jpa
     - MySql
