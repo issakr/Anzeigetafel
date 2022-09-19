@@ -1,5 +1,5 @@
 # Anzeigetafel
-simple Java distributed system based on RMI
+simple Java distributed system based on Remote methode invocation (RMI)
 
   - Server :
     - Spring-boot-Starter
